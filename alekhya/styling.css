@@ -1,0 +1,19 @@
+#abc {
+	height:100px;
+	width:100px;
+	background-color:grey;
+	border:10px solid white;
+	padding:15px;
+	border-image:url(border.png) 30 round;
+}
+#def {
+	height:100px;
+	width:100px;
+	background-color:grey;
+	border:10px dotted red;
+}
+.cl {
+	height:100px;
+	width:100px;
+	background-color:grey;
+}

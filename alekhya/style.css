@@ -1,0 +1,44 @@
+h1 {
+	color:purple;
+	background-color:lightgrey;
+	border:5px solid yellow;
+	margin-left:20px;
+}
+#abc{
+	height:300px;
+	width:600px;
+	background-color:grey;
+}
+
+#def {
+	height:100px;
+	width:100px;
+	background-color:purple;
+	margin:20px;
+	padding:20px;
+	float:left;
+}
+#ghi {
+	height:100px;
+	width:100px;
+	background-color:purple;
+	margin:20px;
+	padding:20px;
+	float:right;
+}
+#jkl {
+	height:100px;
+	width:100px;
+	background-color:purple;
+	margin:20px;
+	padding:20px;
+	float:right;
+	border:10px solid  pink;
+}
+#e {
+	height:100px;
+	width:100px;
+	background-color: grey;
+	padding:50px;
+	border:10px solid yellow;
+}
