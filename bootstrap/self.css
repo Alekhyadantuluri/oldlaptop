@@ -1,0 +1,16 @@
+
+#img{
+	height:100px;
+	width:200px;
+	float:right;
+	position:relative;
+}
+#imge{
+	height:50px;
+	width:100px;
+	position:absolute;
+	top:50px;
+	right:300px;
+	z-index:-1;
+	opacity:50%;
+}
